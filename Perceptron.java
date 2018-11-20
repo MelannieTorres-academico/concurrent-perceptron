@@ -1,3 +1,19 @@
+/*    Fork-Join-Perceptron uses the java framework "fork-join" to test a perceptron
+    Copyright (C) 2018  Melannie Torres
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    If you want to contact the author you may write an email to: melannie.torres.soto@gmail.com
+    As a subject please write: Fork-Join-Perceptron: additional info
+*/
 import java.lang.String;
 import java.util.*;
 
