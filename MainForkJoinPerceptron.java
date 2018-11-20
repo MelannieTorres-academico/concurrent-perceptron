@@ -22,7 +22,7 @@ import java.util.concurrent.ForkJoinPool;
 /* To run:
 *  javac *.java
 *  java MainForkJoinPerceptron < ./tests/ruben_or.txt -true
-*  java MainForkJoinPerceptron < ./tests/linearly_separable.txt
+*  java MainForkJoinPerceptron < ./tests/ruben_linearly_separable.txt -true
 *  java MainForkJoinPerceptron < ./tests/breast_cancer.txt
 *  java MainForkJoinPerceptron < ./tests/ruben_no_solution.txt
 *  java MainForkJoinPerceptron < ./tests/ruben_no_solution_2.txt
