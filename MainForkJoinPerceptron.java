@@ -48,6 +48,8 @@ class MainForkJoinPerceptron {
     boolean hasSolution;
     long startTime, stopTime;
 
+    System.out.println("\nFork-Join-Perceptron  Copyright (C) 2018  Melannie Torres. This program comes with ABSOLUTELY NO WARRANTY; This is free software, and you are welcome to redistribute it under certain conditions; \n");
+
     perceptron.parse();
 
     if (perceptron.train(learning_rate, limit)){
